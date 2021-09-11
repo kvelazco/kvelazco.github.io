@@ -1,7 +1,7 @@
 /*
  * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
- * Copyright (c) 2016 Julian Garnier
+ * Copyright (c) 2016 Julian Garnier, 2021 Kevin Velazco
  */
 
 window.onload = function() {
@@ -22,13 +22,16 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey there 👋',
-    'I\'m Julian',
-    'I design and code things on the web',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@julian.gr">hello@julian.gr</a>',
-    '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
+    'Hi 👋',
+    'I\'m Kevin, a Computer Science student at <a href="https://www.fiu.edu/">Florida International University</a>',
+    'I\'m interested about the future of tech and want to be part of building it',
+    'The topics I like the most are 🤖 AI, 🧠 Machine Learning and 👁️‍🗨️ Computer Vision',
+    'I\'m currently seeking an internship for summer 2022',
+    'You can contact me at <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a>, or at',
+    '💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">linkedin.com/in/kevinvelazco/</a>',
+    'Thanks for passing by!',
     getCurrentTime(),
-    '👀 J.'
+    '- KV. 👊'
   ]
 
   var getFontSize = function() {
