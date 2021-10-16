@@ -25,7 +25,7 @@ window.onload = function() {
     'Hi 👋',
     'I\'m Kevin, a Computer Science student at <a href="https://www.fiu.edu/">Florida International University</a>',
     'I\'m interested about the future of tech and want to be part of building it',
-    'The topics I'm more interested on are 📱 Android Development, 🧠 Machine Learning and 👁️‍🗨️ Computer Vision',
+    'The topics I'm more interested are 📱 Android Development, 🧠 Machine Learning and 👁️‍🗨️ Computer Vision',
     'I\'m currently seeking an internship for Summer 2022',
     'You can contact me at <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a>, or at',
     '💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">linkedin.com/in/kevinvelazco/</a>',
