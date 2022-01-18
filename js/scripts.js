@@ -28,7 +28,7 @@ window.onload = function() {
     'I enjoy working in 📱 Mobile Dev, 🧠 Machine Learning and 👁️ Computer Vision projects',
     'You can check some of them in <a href="https://github.com/kvelazco">my github</a>',
     'Currently seeking an internship for Summer 2022',
-    'You can contact me at <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a>, or at',
+    'You can contact me at 📧 <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a>, or at',
     '💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">linkedin.com/in/kevinvelazco/</a>',
     getCurrentTime() + ' and thank you for passing by',
     '- KV. 🧑‍💻'
