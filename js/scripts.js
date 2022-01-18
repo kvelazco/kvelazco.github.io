@@ -30,7 +30,7 @@ window.onload = function() {
     'Currently seeking an internship for Summer 2022',
     'You can contact me at <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a>, or at',
     '💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">linkedin.com/in/kevinvelazco/</a>',
-    'Thanks you for passing by and ' getCurrentTime(),
+    'Thanks you for passing by and ' + getCurrentTime(),
     '- KV. 🧑‍💻'
   ]
 
