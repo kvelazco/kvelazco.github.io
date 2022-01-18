@@ -16,9 +16,9 @@ window.onload = function() {
     var hours =  date.getHours();
     var minutes =  date.getMinutes();
     var current = hours + (minutes * .01);
-    if (current >= 5 && current < 19) return 'Have a nice day';
-    if (current >= 19 && current < 22) return 'Have a nice evening';
-    if (current >= 22 || current < 5) return 'Have a good night';
+    if (current >= 5 && current < 19) return 'have a nice day';
+    if (current >= 19 && current < 22) return 'have a nice evening';
+    if (current >= 22 || current < 5) return 'have a good night';
   }
 
   var messages = [
@@ -30,8 +30,7 @@ window.onload = function() {
     'Currently seeking an internship for Summer 2022',
     'You can contact me at <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a>, or at',
     '💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">linkedin.com/in/kevinvelazco/</a>',
-    'Thanks for passing by!',
-    getCurrentTime(),
+    'Thanks you for passing by and ' getCurrentTime(),
     '- KV. 🧑‍💻'
   ]
 
