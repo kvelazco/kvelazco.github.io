@@ -32,7 +32,7 @@ window.onload = function() {
     '💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">linkedin.com/in/kevinvelazco/</a>',
     'Thanks for passing by!',
     getCurrentTime(),
-    '- KV. 👊'
+    '- KV. 🧑‍💻'
   ]
 
   var getFontSize = function() {
