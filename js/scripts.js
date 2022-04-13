@@ -27,7 +27,7 @@ window.onload = function() {
     'I want to be part of the future of tech by building it',
     'I enjoy developing 📱 interactive applications and researching 🧠 machine learning topics',
     'You can check some of my projects in <a href="https://github.com/kvelazco">my github</a>',
-    'Currently seeking an internships and new grad opportunities',
+    'Currently seeking internships and new grad opportunities',
     'Contact me at 📧 <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a>, or at',
     '💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">linkedin.com/in/kevinvelazco/</a>',
     getCurrentTime() + ' and thank you for passing by',
