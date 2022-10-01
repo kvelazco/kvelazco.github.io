@@ -28,8 +28,7 @@ window.onload = function() {
     'I enjoy developing 📱 interactive applications and learning about 💻 technology',
     'You can check some of my projects in <a href="https://github.com/kvelazco">my github</a>',
     'Currently seeking new grad opportunities in software development',
-    'Contact me at 📧 <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a>, or at',
-    '💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">linkedin.com/in/kevinvelazco/</a>',
+    'You can contact me via e-mail at 📧 <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a> or in 💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">LinkedIn</a>',
     getCurrentTime() + ' and thank you for stopping by',
     '- KV. 🧑‍💻'
   ]
