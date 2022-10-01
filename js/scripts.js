@@ -22,15 +22,15 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hi 👋',
-    'I\'m Kevin, a Computer Science student and tutor at <a href="https://www.fiu.edu/">Florida International University</a>',
-    'I want to be part of the future of tech by building it',
-    'I enjoy developing 📱 interactive applications and researching 🧠 machine learning topics',
+    'Hi! 👋',
+    'I\'m Kevin, a Computer Science student at <a href="https://www.fiu.edu/">Florida International University</a>',
+    'I\'m currently a SWE intern at UKG and previously worked as a teaching assistant',
+    'I enjoy developing 📱 interactive applications and learning about 💻 technology',
     'You can check some of my projects in <a href="https://github.com/kvelazco">my github</a>',
-    'Currently seeking internships and new grad opportunities',
+    'Currently seeking new grad opportunities in software development',
     'Contact me at 📧 <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a>, or at',
     '💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">linkedin.com/in/kevinvelazco/</a>',
-    getCurrentTime() + ' and thank you for passing by',
+    getCurrentTime() + ' and thank you for stopping by',
     '- KV. 🧑‍💻'
   ]
 
