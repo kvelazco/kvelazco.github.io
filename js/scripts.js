@@ -23,12 +23,12 @@ window.onload = function() {
 
   var messages = [
     'Hi! 👋',
-    'I\'m Kevin, a senior Computer Science student at <a href="https://www.fiu.edu/">Florida International University</a>',
+    'I\'m Kevin, a Computer Science grad from <a href="https://www.fiu.edu/">Florida International University</a>',
     'I previously interned at UKG as a software engineer and also taught CS fundamentals as a teaching assistant at FIU',
     'I enjoy developing 📱 interactive applications and learning about 💻 technology',
     'You can check some of my projects in <a href="https://github.com/kvelazco">my github</a>',
-    'Currently seeking new grad opportunities in software development',
-    'You can contact me via e-mail at 📧 <a href="mailto:kvela033@fiu.edu">kvela033@fiu.edu</a> or in 💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">LinkedIn</a>',
+    'Currently seeking opportunities in software development',
+    'You can contact me via e-mail at 📧 <a href="mailto:kevin.velazco1@fiu.edu">kevin.velazco1@fiu.edu</a> or in 💼 <a target="_blank" href="https://linkedin.com/in/kevinvelazco/">LinkedIn</a>',
     getCurrentTime() + ' and thank you for stopping by',
     '- KV. 🧑‍💻'
   ]
